@@ -1,29 +1,45 @@
 # Hi, I'm Drilon 👋
 
-I'm a seasoned **Android Engineer** with over 12 years of experience in bringing mobile applications to life. With a journey that began in the era of early smartphones, I've evolved alongside Android, mastering its ins and outs, and leveraging its capabilities to create apps that are not just functional but also a delight to use.
+I’m a Senior Mobile & Software Engineer with 14+ years of professional experience, primarily focused on Android, Flutter, and modern backend systems. I began my career during the early days of Android and have grown alongside the platform—adapting to new architectures, tooling, and engineering standards as the ecosystem evolved.
+
+My work centers on building scalable, maintainable, and production-ready software, with a strong emphasis on clean architecture, performance, and long-term sustainability.
 
 ## 🚀 About Me
 
-Beyond Android, my quest for knowledge led me to embrace **Flutter**, allowing me to craft beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. This dual expertise enables me to navigate the complexities of mobile app development with agility and precision.
+My core expertise is Android development (14+ years), complemented by Flutter (6+ years) for cross-platform applications spanning Android, iOS, and Web. In recent years, I’ve expanded deeper into backend and infrastructure work, designing APIs and services using Node.js, Deno, and Go.
 
-I'm a firm believer in the power of **Continuous Integration/Continuous Deployment (CI/CD)** and the automation of mundane tasks. Why waste time on repetitive tasks when you can automate them? This philosophy drives me to integrate automation into every feasible aspect of the mobile development process, ensuring efficiency, consistency, and quality in every build.
+I value pragmatic engineering: choosing the simplest solution that scales, automating everything repeatable, and keeping systems understandable for the next engineer who touches them.
+
+CI/CD, automation, and developer experience are integral parts of how I build and ship software.
 
 ## 💡 What I'm Passionate About
 
-- **Mobile Application Development**: Crafting user-centric applications with Android and Flutter.
-- **CI/CD**: Implementing robust CI/CD pipelines to streamline development and deployment processes.
-- **Automation**: Automating everything possible in the mobile development ecosystem to focus more on innovation.
-- **Learning and Sharing**: Continuously learning new technologies and sharing knowledge with the community.
+- **Mobile Application Development**: Android (Kotlin), Flutter (clean architecture, scalable state management).
+- **Backend & Systems Development**: Go, Node.js, Deno — REST APIs, authentication, data persistence, performance-focused services.
+- **CI/CD & Automation**: GitHub Actions, automated testing, release pipelines, internal tooling.
+- **Software Architecture**: Designing systems that are easy to reason about, test, and evolve over time.
+- **Continuous Learning**: Staying current with mobile, backend, and platform-level engineering trends.
 
 ## 🌱 Currently Exploring
 
-- Jetpack Compose, composable architecture, state hoisting and much more the android world offers.
-- Advanced architectures and state management solutions in Flutter for scalable app development.
-- Latest trends in mobile development, including AI and machine learning integration.
+- Advanced Android architecture patterns and performance optimization.
+- Scalable Flutter app structures for large, long-lived codebases.
+- Go for high-performance backend services and tooling.
+- API security fundamentals, rate limiting, and backend hardening.
+- Practical applications of AI in real-world software products.
+
+## 🧠 Experience Snapshot
+
+- 14+ years Android development
+- 6+ years Flutter (mobile & web)
+- Backend development with Go, Node.js, and Deno
+- Strong CI/CD and automation mindset
+- Experience across startups, internal tools, and long-lived production systems
+- Focused on clean code, maintainability, and developer experience
 
 ## 📫 Let's Connect
 
-Whether you're looking to collaborate on a project, exchange ideas, or simply say hello, feel free to reach out!
+If you’re interested in collaborating, discussing architecture, or exchanging ideas, feel free to reach out.
 
 - [[**LinkedIn**]](https://www.linkedin.com/in/drilonrecica/)
 
