@@ -41,7 +41,7 @@ CI/CD, automation, and developer experience are integral parts of how I build an
 
 If you’re interested in collaborating, discussing architecture, or exchanging ideas, feel free to reach out.
 
-- [[**Landing Page**]]([https://www.linkedin.com/in/drilonrecica/](https://drilon.recica.dev/))
+- [[**Landing Page**]](https://drilon.recica.dev/)
 - [[**LinkedIn**]](https://www.linkedin.com/in/drilonrecica/)
 
 ---
